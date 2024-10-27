@@ -10,10 +10,10 @@
   },
   "dependencies": {
     "@googlemaps/markerclusterer": "^2.5.1",
-    "@vis.gl/react-google-maps": "^0.3.2",
+    "@vis.gl/react-google-maps": "^0.3.3",
     "autoprefixer": "10.4.16",
-    "next": "13.5.2",
-    "postcss": "8.4.30",
+    "next": "^15.0.1",
+    "postcss": "^8.4.31",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
